@@ -1,0 +1,38 @@
+.Container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 180px;
+	height: 10 0px;
+}
+.Horaria {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: auto;
+	height: auto;
+	width: 55px;
+	height: 95px;
+}
+.Minutera {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: auto;
+	height: auto;
+	width: 55px;
+	height: 95px;
+}
+.Secundera {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 55px;
+	height: 95px;
+}
+.Cuadritos {
+	width: 20px;
+	height: 20px;
+	margin: 2px;
+	background-color: black;
+}
